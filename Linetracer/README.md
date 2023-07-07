@@ -4,6 +4,9 @@
 #### 라인트레이서의 주요 원리
 <img width="50%" src="https://github.com/kxxbeomjun/Linetracer/assets/121419945/8f3463e5-d985-4132-937e-c737b603bab5"/>
 
+#### 회로 구성도
+<img width="50%" src="https://github.com/kxxbeomjun/Roboin-projects/assets/121419945/1343f562-65aa-463d-9a2f-8019578a7333"/>
+
 ### 달성 목표
 + 만들어진 흰선/검은선 구분선 내에서 특정 선을 감지해서 따라가는 주행 성공
 + 차체 디자인을 직접 3D 모델링하여 출력 및 조립
