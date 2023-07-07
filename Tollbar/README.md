@@ -15,3 +15,7 @@
 #### 코드 구성시 고려한 점
 1. 초음파센서는 digitalWrite 함수를 이용해 trig의 상태를 LOW -> HIGH -> LOW으로 바꿔줌으로써 음파를 쏜다. 이 음파가 echo핀으로 들어간다. 감지된 음파 시간 차이를 계산하여 거리를 측정한다.
 2. 서보모터의 write()함수는 0-180도만 움직일 수 있으므로 어떤 방향으로 돌아가는지 그림을 그려 판단해야한다.
+
+#### Reference
++ 츠음파 센서 : https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+
