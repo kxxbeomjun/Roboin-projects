@@ -2,7 +2,7 @@
 로보인 라인트레이서 로봇 프로젝트
 
 #### 라인트레이서의 주요 원리
-<img width="50%" src="https://github.com/kxxbeomjun/Linetracer/assets/121419945/8f3463e5-d985-4132-937e-c737b603bab5"/>
+<img width="50%" src="https://github.com/kxxbeomjun/Roboin-projects/assets/121419945/3ecf1308-7439-41b1-8f14-412ee73df4c1"/>
 
 #### 회로 구성도
 <img width="50%" src="https://github.com/kxxbeomjun/Roboin-projects/assets/121419945/1343f562-65aa-463d-9a2f-8019578a7333"/>
