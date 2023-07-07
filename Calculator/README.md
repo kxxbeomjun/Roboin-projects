@@ -9,7 +9,7 @@
 + LCD와 시리얼 통신을 활용하여 입력받은 계산의 결과를 출력하는 계산기를 만들기
 + 시리얼 모니터로 계산을 송신하면 LCD로 계산과 결과를 함께 출력
 
-##### Source code
+#### Source code
 ```
 import serial
 
@@ -20,7 +20,7 @@ while True:
   SER.write(s.encode())
 ```
 
-##### Reference
+#### Reference
 + 라즈베리 파이와 LCD
 https://www.raspberrypi-spy.co.uk/2015/05/using-an-i2c-enabled-lcd-screen-with-the-raspberry-pi/
 + USB Gadget - Preparation
