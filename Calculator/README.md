@@ -1,5 +1,6 @@
-# Calculator
-Roboin project - Calculator code
+# Calculator 
+로보인 계산기 제작 프로젝트
+
 
 #Source code
 ```
